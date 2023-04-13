@@ -1,0 +1,17 @@
+body {
+  background-color: #efefef;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 36px;
+  color: #4285f4;
+  line-height: 45px;
+  width: 100%;
+}
+
+#map {
+  height: 680px; /* The height is 400 pixels */
+  width: 100%; /* The width is the width of the web page */
+}
